@@ -50,4 +50,4 @@ export default function Page() {
 }
 
 
-// chapter 7 : https://nextjs.org/learn/dashboard-app/fetching-data
+// chapter 9 : https://nextjs.org/learn/dashboard-app/streaming
