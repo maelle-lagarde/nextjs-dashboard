@@ -50,4 +50,4 @@ export default function Page() {
 }
 
 
-// chapter 11 Adding Search and Pagination : https://nextjs.org/learn/dashboard-app/adding-search-and-pagination
+// chapter 12 Mutating data : https://nextjs.org/learn/dashboard-app/mutating-data
