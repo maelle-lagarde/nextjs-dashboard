@@ -50,4 +50,4 @@ export default function Page() {
 }
 
 
-// chapter 12 Mutating data : https://nextjs.org/learn/dashboard-app/mutating-data
+// chapter 12 Mutating data : https://nextjs.org/learn/dashboard-app/mutating-data#3-fetch-the-specific-invoice
