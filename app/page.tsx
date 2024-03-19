@@ -50,4 +50,4 @@ export default function Page() {
 }
 
 
-// chapter 14 Improving accessibility : https://nextjs.org/learn/dashboard-app/improving-accessibility
+// chapter 15 Adding authentication : https://nextjs.org/learn/dashboard-app/adding-authentication
