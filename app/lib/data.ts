@@ -151,7 +151,7 @@ export async function fetchInvoicesPages(query: string) {
   }
 }
 
-export async function fetchInvoiceById(query: string) {
+export async function fetchInvoiceById(id: string) {
   noStore();
   try {
     const data = await sql<InvoiceForm>`
@@ -170,6 +170,7 @@ export async function fetchInvoiceById(query: string) {
       amount: invoice.amount / 100,
     }));
 
+    console.log(invoice);
     return invoice[0];
   } catch (error) {
     console.error('Database Error:', error);
