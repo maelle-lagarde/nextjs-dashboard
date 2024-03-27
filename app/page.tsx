@@ -50,4 +50,4 @@ export default function Page() {
 }
 
 
-// chapter 15 Adding authentication : https://nextjs.org/learn/dashboard-app/adding-authentication
+// chapter 15 Adding the logout functionality : https://nextjs.org/learn/dashboard-app/adding-authentication  end of the page
